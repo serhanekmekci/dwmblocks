@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	{"", "bar_windows", 60, 8},
 	{"", "bar_os_x", 60, 7},
 	{"", "bar_artix", 60, 6},
-	{"", "bar_wifi", 1, 5},
+	{"", "bar_wifi", 10, 5},
 	{"", "volume", 1, 4},
 	{" ", "bar_kbdlayout", 3, 3},
 	{" " , "bar_date", 1, 2},
