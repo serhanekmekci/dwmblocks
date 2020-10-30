@@ -7,6 +7,7 @@ static const Block blocks[] = {
 	{"", "bar_wifi", 5, 5},
 	{"", "volume", 0, 4},
 	{" ", "bar_kbdlayout", 0, 3},
+	{"", "bar_bluetooth", 0, 9},
 	{" " , "bar_date", 0, 2},
 	{" " , "bar_time", 1, 1},
 };
