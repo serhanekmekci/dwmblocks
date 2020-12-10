@@ -9,12 +9,12 @@ static const Block blocks[] = {
 	{"", "bar_os_x", 300, 7},
 	{"", "bar_artix", 300, 6},
 	{"", "forecast", 10800, 10},
-	{"", "bar_wifi", 10, 5},
+	{"", "bar_wifi", 3, 5},
 	{"", "bar_volume", 0, 4},
-	{" ", "bar_kbdlayout", 0, 3},
-	{"", "bar_bluetooth", 0, 9},
-	{" " , "bar_date", 0, 2},
-	{" " , "bar_time", 10, 1},
+	{"", "bar_kbdlayout", 0, 3},
+	{"", "bar_bluetooth", 0, 9},
+	{"" , "bar_date", 0, 2},
+	{"" , "bar_time", 0, 1},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
